@@ -13,6 +13,9 @@ license: mit
 
 An intelligent chatbot that allows you to upload PDF documents and ask questions about their content using Retrieval-Augmented Generation (RAG).
 
+### 🔗 Hugging Face Space
+[![Hugging Face Space](https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/SivaSai8143/pdf-rag-chatbot)
+
 ## 🔧 Technical Workflow
 
 ### Step 1 — PDF Ingestion
@@ -170,6 +173,4 @@ This project is open-source and available under the MIT License.
 ---
 
 **Built with ❤️ using HuggingFace, Gradio, and Open-Source AI models**
-### 🔗 Hugging Face Space
-[![Hugging Face Space](https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/SivaSai8143/pdf-rag-chatbot)
 
