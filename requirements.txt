@@ -1,0 +1,8 @@
+gradio>=5.0.0
+PyPDF2
+sentence-transformers==3.0.1
+transformers==4.40.0
+torch==2.2.0
+faiss-cpu==1.7.3
+numpy==1.26.4
+huggingface_hub>=0.28.1
