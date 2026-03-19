@@ -9,7 +9,6 @@ sdk_version: 5.23.1
 app_file: app.py
 license: mit
 ---
-
 # 📚 PDF RAG Chatbot
 
 An intelligent chatbot that allows you to upload PDF documents and ask questions about their content using Retrieval-Augmented Generation (RAG).
@@ -171,4 +170,3 @@ This project is open-source and available under the MIT License.
 ---
 
 **Built with ❤️ using HuggingFace, Gradio, and Open-Source AI models**
-> Testing GitHub achievements (Pull Shark).
